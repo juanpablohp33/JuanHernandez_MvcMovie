@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JuanHernandez_MvcMovie/1.0.0": {
+        "runtime": {
+          "JuanHernandez_MvcMovie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JuanHernandez_MvcMovie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
